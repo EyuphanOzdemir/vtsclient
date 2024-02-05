@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/c5e92102-a7b6-4bb4-97a6-ff8ecbc45551/resourceGroups/MSCourseRG/providers/Microsoft.Web/sites/vtsclient",
+    "appService.deploySubpath": "build"
+}
